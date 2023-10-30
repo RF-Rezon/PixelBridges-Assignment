@@ -9,7 +9,7 @@ const Dashboard = () => {
           <p className="font-headlines text-white text-left text-4xl font-semibold pl-5 md:pl-0">
             Stats
           </p>
-          <div className="h-7 w-7">
+          <div className="h-6 w-6">
             <img className="h-full w-full" src="/etherium.svg" alt="" />
           </div>
         </div>
@@ -91,7 +91,7 @@ const Dashboard = () => {
           <p className="font-headlines text-white text-left text-4xl font-semibold px-5 md:px-0">
             Tokens
           </p>
-          <div className="h-7 w-7">
+          <div className="h-6 w-6">
             <img className="h-full w-full" src="/etherium.svg" alt="" />
           </div>
         </div>
